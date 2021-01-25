@@ -1,0 +1,37 @@
+{
+  "id": "2272433",
+  "name": "个人简历",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "657298",
+      "name": "分期－返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "200167",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5412236",
+      "name": "向下",
+      "font_class": "down",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "17871903",
+      "name": "下  拉",
+      "font_class": "xiala",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    }
+  ]
+}
